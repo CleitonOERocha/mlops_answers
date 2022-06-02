@@ -31,7 +31,7 @@ import mlflow
 #mlflow.set_tracking_uri("sqlite:///mlflow.db")
 
 # Criando/Carregando experimento ---------------------
-mlflow.set_experiment("nyc-taxi-experiment")
+mlflow.set_experiment("nyc-taxi-experiment_test")
 
 # Função para ler e ajustar dataframe ------------------
 def read_dataframe(filename):

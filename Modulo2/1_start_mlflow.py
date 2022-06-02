@@ -5,7 +5,10 @@
 
 # EDA ----------------------
 import pandas as pd
-from flask_sqlalchemy import SQLAlchemy
+#from flask_sqlalchemy import SQLAlchemy
+import sqlalchemy
+
+# pip install sqlalchemy --upgrade
 
 # Salvar modelo --------------
 import pickle
@@ -26,10 +29,10 @@ import mlflow
 ##########################################################################
 
 # Definindo database para armazenar experimentos ------
-#mlflow.set_tracking_uri("sqlite:///mlflow.db")
+mlflow.set_tracking_uri("sqlite:///mlflow.db")
 
 # Criando/Carregando experimento ---------------------
-mlflow.set_experiment("nyc-taxi-experiment")
+mlflow.set_experiment("nyc-taxi-experiment_v2")
 
 # Função para ler e ajustar dataframe ------------------
 def read_dataframe(filename):
