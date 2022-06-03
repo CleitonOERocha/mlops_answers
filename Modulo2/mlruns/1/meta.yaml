@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/cleit/Desktop/Cursos/mlops_answers/Modulo2/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: nyc-taxi-experiment

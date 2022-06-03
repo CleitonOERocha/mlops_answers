@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/7/d250edaf7e744ec394415956aed12877/artifacts
+end_time: 1654256078115
+entry_point_name: ''
+experiment_id: '7'
+lifecycle_stage: deleted
+name: ''
+run_id: d250edaf7e744ec394415956aed12877
+run_uuid: d250edaf7e744ec394415956aed12877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654256077761
+status: 4
+tags: []
+user_id: cleit

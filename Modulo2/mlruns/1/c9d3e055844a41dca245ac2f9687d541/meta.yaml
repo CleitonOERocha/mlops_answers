@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cleit/Desktop/Cursos/mlops_answers/Modulo2/mlruns/1/c9d3e055844a41dca245ac2f9687d541/artifacts
+end_time: 1653861967401
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c9d3e055844a41dca245ac2f9687d541
+run_uuid: c9d3e055844a41dca245ac2f9687d541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653861932678
+status: 3
+tags: []
+user_id: cleit
