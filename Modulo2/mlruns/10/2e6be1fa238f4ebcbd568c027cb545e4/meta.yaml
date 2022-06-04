@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/10/2e6be1fa238f4ebcbd568c027cb545e4/artifacts
+end_time: 1654381041287
+entry_point_name: ''
+experiment_id: '10'
+lifecycle_stage: active
+name: ''
+run_id: 2e6be1fa238f4ebcbd568c027cb545e4
+run_uuid: 2e6be1fa238f4ebcbd568c027cb545e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1654381013966
+status: 3
+tags: []
+user_id: cleit

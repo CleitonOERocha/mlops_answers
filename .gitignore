@@ -6,3 +6,5 @@ Modulo2/venv
 Modulo2/mlruns/1/01360020dc0448168c3c5c895bb37c05/artifacts/model/model.pkl
 
 Modulo3/.venv
+*.pem
+Modulo3/servidorweb.ppk
