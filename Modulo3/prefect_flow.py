@@ -163,8 +163,8 @@ X_train, X_val, y_train, y_val, dv = add_features(X_train, X_val).result() """
 def main(train_path = "green_tripdata_2021-01.parquet",
          val_path = "green_tripdata_2021-02.parquet"): 
    # mlflow.set_tracking_uri("sqlite:///mlflow.db")
-    mlflow.set_tracking_uri("http://127.0.0.1:5000")
-    mlflow.set_experiment("nyc-taxi-experiment-prefect")
+   # mlflow.set_tracking_uri("http://127.0.0.1:5000")
+   # mlflow.set_experiment("nyc-taxi-experiment-prefect")
     X_train = read_dataframe(train_path)
     X_val = read_dataframe(val_path)
     X_train, X_val, y_train, y_val, dv = add_features(X_train, X_val).result()
