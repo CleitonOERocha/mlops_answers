@@ -1,0 +1,6 @@
+artifact_location: s3://mlflow-bucket-cleiton
+creation_time: 1665887947676
+experiment_id: '1'
+last_update_time: 1665887947676
+lifecycle_stage: active
+name: mais_um_teste

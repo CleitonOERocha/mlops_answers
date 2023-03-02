@@ -1,0 +1,15 @@
+artifact_uri: models_mlflow/91f558edf71c4a4c8959c20b4e3f6aea/artifacts
+end_time: 1665936957462
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 91f558edf71c4a4c8959c20b4e3f6aea
+run_uuid: 91f558edf71c4a4c8959c20b4e3f6aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665936909589
+status: 3
+tags: []
+user_id: cleit

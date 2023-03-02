@@ -1,0 +1,15 @@
+artifact_uri: s3://mlflow-bucket-cleiton/d28f0065b32a43f6b3501342c0f37bc7/artifacts
+end_time: 1665935471195
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d28f0065b32a43f6b3501342c0f37bc7
+run_uuid: d28f0065b32a43f6b3501342c0f37bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1665935441915
+status: 4
+tags: []
+user_id: cleit
